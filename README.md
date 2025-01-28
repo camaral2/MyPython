@@ -6,3 +6,10 @@ This project showcases my Python codes and tracks my learning progress in Python
 
 ### 1. `py_read_data_clean.py`
 This script is designed to prepare datasets for batch processing. It includes functionalities for data cleaning, such as handling missing values, removing duplicates, and standardizing data formats.
+
+## Notes
+
+### 1. Generate file requirements.txt
+pip list --format=freeze > requirements.txt
+or
+pip freeze > requirements.txt
