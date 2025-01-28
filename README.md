@@ -12,6 +12,8 @@ This script is designed to prepare datasets for batch processing. It includes fu
 ### 1. Generate file requirements.txt
 ```
 pip list --format=freeze > requirements.txt
+```
 or
+```
 pip freeze > requirements.txt
 ```
